@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOEXER", "ADOEXER\ADOEXER.csproj", "{2AD7FE4B-C15D-4984-9D61-9C3DE90747FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFEXER", "EFEXER\EFEXER.csproj", "{84ACED09-9F30-407A-B2E0-421C6FBE7411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD7FE4B-C15D-4984-9D61-9C3DE90747FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD7FE4B-C15D-4984-9D61-9C3DE90747FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD7FE4B-C15D-4984-9D61-9C3DE90747FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD7FE4B-C15D-4984-9D61-9C3DE90747FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84ACED09-9F30-407A-B2E0-421C6FBE7411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84ACED09-9F30-407A-B2E0-421C6FBE7411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84ACED09-9F30-407A-B2E0-421C6FBE7411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84ACED09-9F30-407A-B2E0-421C6FBE7411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB51D7E-0B53-49DF-9EFB-3CF76DDF237B}
+	EndGlobalSection
+EndGlobal

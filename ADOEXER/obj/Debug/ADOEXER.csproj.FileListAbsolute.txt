@@ -1,0 +1,7 @@
+C:\Users\Kury\source\repos\ADOEXER\ADOEXER\bin\Debug\ADOEXER.exe.config
+C:\Users\Kury\source\repos\ADOEXER\ADOEXER\bin\Debug\ADOEXER.exe
+C:\Users\Kury\source\repos\ADOEXER\ADOEXER\bin\Debug\ADOEXER.pdb
+C:\Users\Kury\source\repos\ADOEXER\ADOEXER\obj\Debug\ADOEXER.csprojAssemblyReference.cache
+C:\Users\Kury\source\repos\ADOEXER\ADOEXER\obj\Debug\ADOEXER.csproj.CoreCompileInputs.cache
+C:\Users\Kury\source\repos\ADOEXER\ADOEXER\obj\Debug\ADOEXER.exe
+C:\Users\Kury\source\repos\ADOEXER\ADOEXER\obj\Debug\ADOEXER.pdb

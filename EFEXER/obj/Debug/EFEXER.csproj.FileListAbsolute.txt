@@ -1,0 +1,13 @@
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\bin\Debug\EFEXER.exe.config
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\bin\Debug\EFEXER.exe
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\bin\Debug\EFEXER.pdb
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\bin\Debug\EntityFramework.dll
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\bin\Debug\EntityFramework.xml
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\obj\Debug\EFEXER.csprojAssemblyReference.cache
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\obj\Debug\EFEXER.csproj.CoreCompileInputs.cache
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\obj\Debug\EFEXER.csproj.CopyComplete
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\obj\Debug\EFEXER.exe
+C:\Users\Kury\source\repos\ADOEXER\EFEXER\obj\Debug\EFEXER.pdb
